@@ -12,4 +12,7 @@ aind2-cnn/transfer-learning/dogImages
 aind2-cnn/transfer-learning/bottleneck_features/DogVGG16Data.npz
 aind2-cnn/transfer-learning/.ipynb_checkpoints/
 aind2-cnn/transfer-learning/.DS_Store
+neuralnets/.ipynb_checkpoints/
+neuralnets/gradient_descent/.ipynb_checkpoints/
+neuralnets/keras_tutorial/.ipynb_checkpoints/
 
